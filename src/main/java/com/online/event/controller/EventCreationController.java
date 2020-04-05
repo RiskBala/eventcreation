@@ -19,7 +19,7 @@ import com.online.event.service.EventCreationService;
 
 
 @Controller
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://outreach-ui-s2-travelsystem.apps.na311.openshift.opentlc.com")
 public class EventCreationController {
 
 	@Autowired
